@@ -12,7 +12,7 @@ _description_
 
 ## License
 
-[MIT](./LICENSE) License © 2023-PRESENT
+[MIT](./LICENSE) License © 2024-present
 
 Forked from [Anthony Fu starter-ts](https://github.com/antfu/starter-ts)
 
